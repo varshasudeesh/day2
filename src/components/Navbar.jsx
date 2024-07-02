@@ -13,6 +13,7 @@ export const Navbar = () => {
           </Typography>
           <Link to={'/'}><Button style={{color:'white'}}>View</Button></Link>
           <Link to={'/add'}><Button style={{color:'white'}}>ADD</Button></Link>
+          <Link to={'/customcard'}><Button style={{color:'white'}}>CARD</Button></Link>
         </Toolbar>
       </AppBar>
     </Box>
