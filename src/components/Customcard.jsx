@@ -18,7 +18,7 @@ export const Customcard = () => {
           Snake 
         </Typography>
         <Typography variant="body2" color="text.secondary">
-        Snakes are elongated, limbless reptiles of the suborder Serpentes. Like all other squamates, snakes are ectothermic, amniote vertebrates covered in overlapping scales. 
+        Snakes are elongated, limbless reptiles of the suborder Serpentes. Like all other squamates, snakes are ectothermic.
         </Typography>
       </CardContent>
       <CardActions>

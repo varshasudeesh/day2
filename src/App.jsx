@@ -18,7 +18,10 @@ function App() {
       <Navbar/>
       <Routes>
         <Route path='/'element={<View/>}></Route>
-        <Route path='/add' element={<Add/>}></Route>
+        <Route path='/add' element={<Add person={{name:'Maya',
+    email:'m@gmail.com',
+    password:'frfgrg',
+    address:'rwgreheh'}}/>}></Route>
         <Route path='/customcard' element={<Customcard/>}></Route>
       </Routes>
       
